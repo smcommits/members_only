@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.7.0'
 
 gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'simple_form', '~> 5.0', '>= 5.0.3'
